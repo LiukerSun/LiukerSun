@@ -1,11 +1,10 @@
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 ```shell
 $ analyze @LiukerSun
-posted articles:                answered questions:
-Node.js:       50%                 No data
-JavaScript:    38%
-React:         25%
+Tech & Tools Preference:
+Python:        50%
+React:         40%
 Svelte:        25%
-SvelteKit:     19%
+shell:         19%
 ```
+<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiukerSun&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
